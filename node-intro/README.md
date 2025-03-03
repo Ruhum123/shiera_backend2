@@ -1,9 +1,4 @@
 Node.js is an open source server enviroment, which allows us to run Javascript on the server.
-
-What is Node.js?
- * JavaScript Runtime:
-   * Traditionally, JavaScript was primarily used for front-end web development, running inside web browsers. Node.js changed that by enabling JavaScript to be used for server-side programming.
-   * It's built on Google Chrome's V8 JavaScript engine, which is incredibly fast.
  * Open-source and Cross-platform:
    * Node.js is freely available and can run on various operating systems like Windows, macOS, and Linux.
  * Server-side Applications:
@@ -16,7 +11,7 @@ What is Node.js?
  
 In simpler terms:
 Imagine a restaurant where one waiter takes orders from multiple tables. Instead of waiting for each order to be cooked before taking the next one, the waiter takes all the orders and then hands them off to the kitchen. While the food is being prepared, the waiter can take more orders. This is similar to how Node.js handles requests.
-- Benefits of Node.js
+ - Benefits of Node.js
 1.Its open source.
 2.Reusability of code.
 3.To improve speed and simplicity of implementation.
